@@ -1,0 +1,17 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.vs/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment-specific files
+.env
+
+# Ignore logs
+*.log
